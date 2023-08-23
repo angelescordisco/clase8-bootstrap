@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.formulario {
+  width: 500px;
+  background-color: #edede9;
+  padding: 30px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.formulario h4 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 20px;
+}
+
+.datos {
+  width: 450px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px;
+  border-radius: 1px;
+}
+
+.boton {
+  width: auto;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.coment {
+  margin-bottom: 5px;
+}
